@@ -10,7 +10,7 @@ LinkedIn / Email: _add your links here_
 | # | Project | Tool | Dataset | Key insight |
 |---|---------|------|---------|-------------|
 | 1 | [Superstore Sales Analysis](01-excel/project-1-superstore-sales/) | Excel | [Superstore (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) | Discounts above 20% turn orders loss-making: 21-40% discounts run at -15.3% margin vs 29.5% with no discount |
-| 2 | _Coming soon_ | Excel | | |
+| 2 | [Telco Customer Churn Analysis](01-excel/project-2-telco-churn/) | Excel | [Telco Customer Churn (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) | Month-to-month customers are 55% of the base but 88.6% of churners; a points-based risk score captures 66% of churners in its High tier |
 | 3 | _Coming soon_ | SQL | | |
 | 4 | _Coming soon_ | Python | | |
 | 5 | _Coming soon_ | Power BI | | |
