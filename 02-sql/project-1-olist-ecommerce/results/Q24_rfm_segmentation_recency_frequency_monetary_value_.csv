@@ -1,0 +1,7 @@
+segment,customers,pct_of_customers,avg_recency_days,avg_spend,total_revenue,pct_of_revenue
+Lapsed big spenders,20744,22.2,337,267.61,5551311.33,42.0
+Recent one-time buyers,29020,31.1,102,109.24,3170240.40,24.0
+New big spenders,7121,7.6,47,266.54,1898000.36,14.4
+Lapsed low spenders,33672,36.1,338,55.64,1873537.27,14.2
+"Repeat buyers, cooling off",1600,1.7,320,252.03,403251.00,3.0
+Loyal / active repeat buyers,1201,1.3,89,270.74,325157.75,2.5

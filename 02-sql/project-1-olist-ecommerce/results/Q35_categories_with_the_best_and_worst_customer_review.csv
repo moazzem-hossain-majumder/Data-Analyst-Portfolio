@@ -1,0 +1,11 @@
+group_,category,orders,avg_review_score,pct_negative
+Best,luggage_accessories,1019,4.36,8.3
+Best,stationery,2264,4.29,10.2
+Best,pet_shop,1688,4.27,10.8
+Best,perfumery,3086,4.26,11.9
+Best,fashion_bags_accessories,1820,4.23,10.5
+Worst,office_furniture,1254,3.64,22.2
+Worst,bed_bath_table,9272,3.98,16.6
+Worst,unknown,1392,3.99,18.0
+Worst,furniture_decor,6307,4.04,15.7
+Worst,telephony,4093,4.04,14.4

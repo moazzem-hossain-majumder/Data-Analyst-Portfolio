@@ -1,0 +1,11 @@
+customer_state,category,orders,revenue,pct_of_state_revenue
+SP,bed_bath_table,4347,472238.07,9.3
+RJ,watches_gifts,789,174895.01,9.9
+MG,health_beauty,990,154324.15,9.9
+RS,bed_bath_table,537,60040.95,8.2
+PR,sports_leisure,420,57653.30,8.7
+BA,health_beauty,319,49955.12,10.1
+SC,sports_leisure,309,41579.03,8.2
+PE,health_beauty,220,40685.01,16.2
+DF,watches_gifts,141,32292.27,10.9
+CE,health_beauty,152,31544.50,14.4

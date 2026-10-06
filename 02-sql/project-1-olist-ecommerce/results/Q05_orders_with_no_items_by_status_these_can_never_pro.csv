@@ -1,0 +1,6 @@
+order_status,orders_without_items
+unavailable,603
+canceled,164
+created,5
+invoiced,2
+shipped,1
